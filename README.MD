@@ -1,4 +1,3 @@
-# Churn prediction
 # Training random forest model to predict clients who would churn
 
 ## Business context summary
@@ -19,4 +18,4 @@ The given data include 2 CSV files:
   - Client_data.csv  contains the attributes of clients
   - Price_data.csv contains the price data for each clients
 ### The process
-First, first the data is clean by changing the modrfe
+First, first the data is clean by changing the modrf
