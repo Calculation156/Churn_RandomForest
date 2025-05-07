@@ -63,6 +63,7 @@ Enhance the dataset with additional variables:
 - Sales representative engagement metrics
 
 ### 2. Business Use of Current Model
+- Run **cost-benefit simulations** of false positives vs. false negatives
 If the **cost of retention** is lower than the **cost of losing a client**, consider using the model with **threshold adjustments**:
 - It can still **identify ~50% of churners**.
 - Predicted churners should receive special attention (discounts, support, follow-up).
@@ -74,11 +75,6 @@ If the cost-benefit analysis is unfavorable, it's best to pause the model deploy
 - Consult **domain experts**
 - Focus on **collecting better data**
 
-
-### 4. Next step for project
-- Explore **time series trends** (e.g., contract duration, seasonal usage)
-- Run **cost-benefit simulations** of false positives vs. false negatives
----
 
 ## ✅ Conclusion
 
