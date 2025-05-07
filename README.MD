@@ -51,7 +51,7 @@ Despite tuning, the model suffers from **low recall** (~7–11%) for churners.
 
 ---
 
-## 💡 Recommendations
+## 💡 Recommendations for further improvement
 
 ### 1. Data Enrichment
 Enhance the dataset with additional variables:
@@ -74,22 +74,10 @@ If the cost-benefit analysis is unfavorable, it's best to pause the model deploy
 - Consult **domain experts**
 - Focus on **collecting better data**
 
----
 
-## 📌 Suggestions for Improvement
-
-### 🔧 Project Enhancements
-- Try additional models: **XGBoost, LightGBM, Logistic Regression**
-- Use **feature importance** to understand weak signals
+### 4. Next step for project
 - Explore **time series trends** (e.g., contract duration, seasonal usage)
 - Run **cost-benefit simulations** of false positives vs. false negatives
-
-### 📄 Report Enhancements
-- Add performance metrics table: precision, recall, F1-score, confusion matrix
-- Include sample visualizations from EDA
-- Explain technical terms (e.g., SMOTE) if non-technical readers are expected
-- Add flowcharts or process diagrams to improve clarity
-
 ---
 
 ## ✅ Conclusion
