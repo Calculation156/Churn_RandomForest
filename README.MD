@@ -63,8 +63,7 @@ Enhance the dataset with additional variables:
 - Sales representative engagement metrics
 
 ### 2. Business Use of Current Model
-- Run **cost-benefit simulations** of false positives vs. false negatives
-If the **cost of retention** is lower than the **cost of losing a client**, consider using the model with **threshold adjustments**:
+- Run **cost-benefit simulations** of false positives vs. false negatives. If the **cost of retention** is lower than the **cost of losing a client**, consider using the model with **threshold adjustments**
 - It can still **identify ~50% of churners**.
 - Predicted churners should receive special attention (discounts, support, follow-up).
 - Predicted retained clients can be **manually reviewed**, although this is time-consuming and may lack consistency.
