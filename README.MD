@@ -15,10 +15,15 @@ A **Random Forest classification model** is developed to **predict which clients
 
 ## 📊 Methodology
 
+The csv can be find in raw data folder. The data description is also provided for understanding the columns meaning.
+
+The modeling training is found in churn modeling python file
+
 ### Data
 The project uses two datasets:
 - `Client_data.csv`: Contains client attributes (e.g., contract info, consumption, and demographics).
 - `Price_data.csv`: Contains pricing data per client across different periods.
+
 
 ### Exploratory Data Analysis (EDA)
 - 100% stacked bar charts are used to visualize churn across sales channels and other dimensions.
